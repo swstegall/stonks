@@ -1,2 +1,2 @@
 # stonks
-Rust CLI Application for reporting stock information.
+Rust CLI application for reporting stock information.
